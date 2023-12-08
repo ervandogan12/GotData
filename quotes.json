@@ -376,5 +376,225 @@
       "character": "cersei",
       "sentence": "I don't choose sides. I'm the queen of the Seven Kingdoms."
     }
+  ],
+      "locations":
+    [
+   {
+      "_id": "1",
+      "name": "Winterfell",
+      "type": "Castle",
+      "location": "The North",
+      "rulers": "House Stark",
+      "url":""
+    },
+    {
+      "_id": "2",
+      "name": "White Harbor",
+      "type": "City",
+      "location": "The North",
+      "rulers": "House Manderly",
+      "url":""
+    },
+    {
+      "_id": "3",
+      "name": "Castle Black",
+      "type": "Castle",
+      "location": "The Wall",
+      "rulers": "Night's Watch",
+      "url":""
+    },
+    {
+      "_id": "4",
+      "name": "King's Landing",
+      "type": "City",
+      "location": "The Crownlands",
+      "rulers": "House Targaryen",
+      "url":""
+    },
+    {
+      "_id": "5",
+      "name": "Casterly Rock",
+      "type": "Castle",
+      "location": "The Westernlands",
+      "rulers": "House Lannister",
+      "url":""
+    },
+    {
+      "_id": "6",
+      "name": "Lannisport",
+      "type": "City",
+      "location": "The Westerlands",
+      "rulers": "House Lannister of Lannisport",
+      "url":""
+
+    },
+    {
+      "_id": "7",
+      "name": "Highgarden",
+      "type": "Castle",
+      "location": "The Reach",
+      "rulers": "House Tyrell",
+      "url":""
+    },
+    {
+      "_id": "8",
+      "name": "Oldtown",
+      "type": "City",
+      "location": "The Reach",
+      "rulers": "House Hightower",
+      "url":""
+    },
+    {
+      "_id": "9",
+      "name": "Riverrun",
+      "type": "Castle",
+      "location": "The Riverlands",
+      "rulers": "House Tully",
+      "url":""
+    },
+    {
+      "_id": "10",
+      "name": "Harrenhal",
+      "type": "Castle",
+      "location": "The Riverlands",
+      "rulers": "",
+      "url":""
+    },
+    {
+      "_id": "11",
+      "name": "Sunspear",
+      "type": "Castle",
+      "location": "Dorne",
+      "rulers": "House Martell",
+      "url":""
+    },
+    {
+      "_id": "12",
+      "name": "Water Gardens",
+      "type": "Palace",
+      "location": "Dorne",
+      "rulers": "House Martell",
+      "url":""
+    },
+    {
+      "_id": "13",
+      "name": "The Eyrie",
+      "type": "Castle",
+      "location": "The Vale",
+      "rulers": "House Arryn",
+      "url":""
+    },
+    {
+      "_id": "14",
+      "name": "Storm's End",
+      "type": "Castle",
+      "location": "The Stormlands",
+      "rulers": "House Baratheon",
+      "url":""
+    },
+    {
+      "_id": "15",
+      "name": "Braavos",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Sealord of Braavos",
+      "url":""
+    },
+    {
+      "_id": "16",
+      "name": "Lorath",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Lorathi",
+      "url":""
+    },
+    {
+      "_id": "17",
+      "name": "Lys",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Lysene",
+      "url":""
+    },
+    {
+      "_id": "18",
+      "name": "Myr",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Magisters",
+      "url":""
+    },
+    {
+      "_id": "19",
+      "name": "Norvos",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Bearded Priests of Norvos"
+    },
+    {
+      "_id": "20",
+      "name": "Pentos",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Prince of Pentos",
+      "url":""
+    },
+    {
+      "_id": "21",
+      "name": "Qohor",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Qohorik",
+      "url":""
+    },
+    {
+      "_id": "22",
+      "name": "Tyrosh",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Archon",
+      "url":""
+    },
+    {
+      "_id": "23",
+      "name": "Volantis",
+      "type": "City-State",
+      "location": "Essos",
+      "rulers": "Triarchs",
+      "url":""
+    },
+    {
+      "_id": "24",
+      "name": "Qarth",
+      "type": "City-State",
+      "location": "Jade Sea",
+      "rulers": "The Thirteen",
+      "url":""
+    },
+    {
+      "_id": "25",
+      "name": "Astapor",
+      "type": "City-State",
+      "location": "Slaver's Bay",
+      "rulers": "Good Masters",
+      "url":""
+    },
+    {
+      "_id": "26",
+      "name": "Yunkai",
+      "type": "City-State",
+      "location": "Slaver's Bay",
+      "rulers": "Wise Masters",
+      "url":""
+    },
+    {
+      "_id": "27",
+      "name": "Meereen",
+      "type": "City-State",
+      "location": "Slaver's Bay",
+      "rulers": "Great Masters",
+      "url":""
+    }
   ]
+
 }
