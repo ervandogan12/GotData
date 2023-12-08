@@ -377,15 +377,15 @@
       "sentence": "I don't choose sides. I'm the queen of the Seven Kingdoms."
     }
   ],
-      "locations":
-    [
-   {
+
+  "locations": [
+    {
       "_id": "1",
       "name": "Winterfell",
       "type": "Castle",
       "location": "The North",
       "rulers": "House Stark",
-      "url":""
+      "url": ""
     },
     {
       "_id": "2",
@@ -393,7 +393,7 @@
       "type": "City",
       "location": "The North",
       "rulers": "House Manderly",
-      "url":""
+      "url": ""
     },
     {
       "_id": "3",
@@ -401,7 +401,7 @@
       "type": "Castle",
       "location": "The Wall",
       "rulers": "Night's Watch",
-      "url":""
+      "url": ""
     },
     {
       "_id": "4",
@@ -409,7 +409,7 @@
       "type": "City",
       "location": "The Crownlands",
       "rulers": "House Targaryen",
-      "url":""
+      "url": ""
     },
     {
       "_id": "5",
@@ -417,7 +417,7 @@
       "type": "Castle",
       "location": "The Westernlands",
       "rulers": "House Lannister",
-      "url":""
+      "url": ""
     },
     {
       "_id": "6",
@@ -425,8 +425,7 @@
       "type": "City",
       "location": "The Westerlands",
       "rulers": "House Lannister of Lannisport",
-      "url":""
-
+      "url": ""
     },
     {
       "_id": "7",
@@ -434,7 +433,7 @@
       "type": "Castle",
       "location": "The Reach",
       "rulers": "House Tyrell",
-      "url":""
+      "url": ""
     },
     {
       "_id": "8",
@@ -442,7 +441,7 @@
       "type": "City",
       "location": "The Reach",
       "rulers": "House Hightower",
-      "url":""
+      "url": ""
     },
     {
       "_id": "9",
@@ -450,7 +449,7 @@
       "type": "Castle",
       "location": "The Riverlands",
       "rulers": "House Tully",
-      "url":""
+      "url": ""
     },
     {
       "_id": "10",
@@ -458,7 +457,7 @@
       "type": "Castle",
       "location": "The Riverlands",
       "rulers": "",
-      "url":""
+      "url": ""
     },
     {
       "_id": "11",
@@ -466,7 +465,7 @@
       "type": "Castle",
       "location": "Dorne",
       "rulers": "House Martell",
-      "url":""
+      "url": ""
     },
     {
       "_id": "12",
@@ -474,7 +473,7 @@
       "type": "Palace",
       "location": "Dorne",
       "rulers": "House Martell",
-      "url":""
+      "url": ""
     },
     {
       "_id": "13",
@@ -482,7 +481,7 @@
       "type": "Castle",
       "location": "The Vale",
       "rulers": "House Arryn",
-      "url":""
+      "url": ""
     },
     {
       "_id": "14",
@@ -490,7 +489,7 @@
       "type": "Castle",
       "location": "The Stormlands",
       "rulers": "House Baratheon",
-      "url":""
+      "url": ""
     },
     {
       "_id": "15",
@@ -498,7 +497,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Sealord of Braavos",
-      "url":""
+      "url": ""
     },
     {
       "_id": "16",
@@ -506,7 +505,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Lorathi",
-      "url":""
+      "url": ""
     },
     {
       "_id": "17",
@@ -514,7 +513,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Lysene",
-      "url":""
+      "url": ""
     },
     {
       "_id": "18",
@@ -522,7 +521,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Magisters",
-      "url":""
+      "url": ""
     },
     {
       "_id": "19",
@@ -537,7 +536,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Prince of Pentos",
-      "url":""
+      "url": ""
     },
     {
       "_id": "21",
@@ -545,7 +544,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Qohorik",
-      "url":""
+      "url": ""
     },
     {
       "_id": "22",
@@ -553,7 +552,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Archon",
-      "url":""
+      "url": ""
     },
     {
       "_id": "23",
@@ -561,7 +560,7 @@
       "type": "City-State",
       "location": "Essos",
       "rulers": "Triarchs",
-      "url":""
+      "url": ""
     },
     {
       "_id": "24",
@@ -569,7 +568,7 @@
       "type": "City-State",
       "location": "Jade Sea",
       "rulers": "The Thirteen",
-      "url":""
+      "url": ""
     },
     {
       "_id": "25",
@@ -577,7 +576,7 @@
       "type": "City-State",
       "location": "Slaver's Bay",
       "rulers": "Good Masters",
-      "url":""
+      "url": ""
     },
     {
       "_id": "26",
@@ -585,7 +584,7 @@
       "type": "City-State",
       "location": "Slaver's Bay",
       "rulers": "Wise Masters",
-      "url":""
+      "url": ""
     },
     {
       "_id": "27",
@@ -593,8 +592,7 @@
       "type": "City-State",
       "location": "Slaver's Bay",
       "rulers": "Great Masters",
-      "url":""
+      "url": ""
     }
   ]
-
 }
